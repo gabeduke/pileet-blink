@@ -8,11 +8,11 @@ description: |
 confinement: devmode
 
 apps:
-  gobot-blink-username:
+  pileet-blink:
     command: pileet-blink
 
 parts:
-  gobot-blink:
+  pileet-blink:
     source: .
     plugin: go
     go-importpath: github.com/gabeduke/pileet-blink
