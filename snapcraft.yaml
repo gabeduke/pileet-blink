@@ -9,7 +9,7 @@ confinement: devmode
 
 apps:
   gobot-blink-username:
-    command: gobot-blink
+    command: pileet-blink
 
 parts:
   gobot-blink:
